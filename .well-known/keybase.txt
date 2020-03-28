@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/aangiel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aangiel.github.io
+  * I am aangiel (https://keybase.io/aangiel) on keybase.
+  * I have a public key ASAlld2hwy_NYlMswXQrWy0jQs4sVRmqgjkinF2G6zOEzwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202595dda1c32fcd62532cc1742b5b2d2342ce2c5519aa8239229c5d86eb3384cf0a",
+      "host": "keybase.io",
+      "kid": "01202595dda1c32fcd62532cc1742b5b2d2342ce2c5519aa8239229c5d86eb3384cf0a",
+      "uid": "06b4d6325c309d368b95665bcb781719",
+      "username": "aangiel"
+    },
+    "merkle_root": {
+      "ctime": 1585380155,
+      "hash": "49ab1b3499c0d3c24b1ab752a8eb400fa465e0d08dc8d239fcfd536a2e411a9e489df92c2099aa0aef5d74adb1dc78a3ad0876823cb3e57414c349a0b96ed87a",
+      "hash_meta": "74b6bdcddeb98e338a0fc9a7e7b8b1107aa6e021e8e141e2c9fad94deeb6d48d",
+      "seqno": 15653647
+    },
+    "service": {
+      "entropy": "TzL4cI7deHmsGKFnEhDj0C1M",
+      "hostname": "aangiel.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1585380165,
+  "expire_in": 504576000,
+  "prev": "cf8eb3b2fde99c9598efb0c51ef7cb6f79299e908604d97ee089993e6763768a",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJZXdocMvzWJTLMF0K1stI0LOLFUZqoI5IpxdhuszhM8Kp3BheWxvYWTESpcCDcQgz46zsv3pnJWY77DFHvfLb3kpnpCGBNl+4ImZPmdjdorEII9jhCzv+pwj79I1uxEOow08mUGZcMCxfs1hUg604146AgHCo3NpZ8RAW/xyX1MGFLuvdYP86/WteQRrGtL4DDoF5pldqld9k3aMOYjfDat+FFBbrT6xorRfgtcuxpXCJrLTJGxm8ypBA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGpYmiKmyxS3maRiIvmBwaDJMajKXW99yVucljMnq8o0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aangiel
+
+==================================================================
+
